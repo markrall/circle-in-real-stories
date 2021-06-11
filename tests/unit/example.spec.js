@@ -1,12 +1,9 @@
 import { shallowMount } from '@vue/test-utils'
-import HelloWorld from '@/components/HelloWorld.vue'
+import Navigation from '@/components/Navigation'
 
-describe('HelloWorld.vue', () => {
-  it('renders props.msg when passed', () => {
-    const msg = 'new message'
-    const wrapper = shallowMount(HelloWorld, {
-      props: { msg }
-    })
-    expect(wrapper.text()).toMatch(msg)
+describe('Navigation', () => {
+  it('renders navigation', () => {
+    const navigation = shallowMount(Navigation)
+    expect(navigation).not.toBeFalsy()
   })
 })

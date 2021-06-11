@@ -1,0 +1,42 @@
+{
+  "featured": [
+    {
+      "subject": "Kirsty Payne",
+      "title": "The power of laughter & making time for my family",
+      "description": "Kristy Payne shares how she prioritises her health and time with her family thanks to MYOB’s flexible working plan",
+      "image": "/assets/images/stories-kirsty-payne.png",
+      "published": "2021-02-22",
+      "hero": true
+    },
+    {
+      "subject": "Rob Sturrock",
+      "title": "I’m a Dad that knows the struggle is real",
+      "description": "Rob Sturrock took time away from his public policy role and he couldn’t be happier he did.",
+      "image": "/assets/images/stories-rob-sturrock.png",
+      "published": "20201-02-22"
+    }
+  ],
+  "stories": [
+    {
+      "subject": "Sueanne O’Leary",
+      "title": "Sueanne O’Leary on staying in the loop on parental leave",
+      "description": "Being invested in every facet of a brand makes it difficult to step away. Sueanne O’Leary talks about staying in the loop after the birth of baby Manu.",
+      "image": "/assets/images/stories-sueanne-oleary.png",
+      "published": "2021-12-21"
+    },
+    {
+      "subject": "Isabel Basting",
+      "title": "A mother’s heartache of her stillborn baby girl",
+      "description": "Isabel shares the heartbreaking story of her firstborn daughter Matilda’s stillbirth, her grief, the challenges returning to work, and how to support other parents who have lost a child.",
+      "image": "/assets/images/stories-isabel-basting.png",
+      "published": "2020-11-21"
+    },
+    {
+      "subject": "Emma Beckingham",
+      "title": "Why empathy and flexibility are the key to helping new parents",
+      "description": "How to achieve less stress and more wellbeing when caring for a child with additional needs? Emma Beckngham shares her story.",
+      "image": "/assets/images/stories-emma-beckingham.png",
+      "published": "2021-03-04"
+    }
+  ]
+}
